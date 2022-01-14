@@ -16,8 +16,8 @@ void Encrypt()
 
 	do
 	{
-		cout << " \n\n1: Ma hoa file input.txt ra file output.txt" << endl;
-		cout << "2: Giai ma file output.txt ra file output1.txt" << endl;
+		cout << " \n\n1: Ma hoa file" << endl;
+		cout << "2: Giai ma file " << endl;
 		cout << "-1: ket thuc" << endl;
 		cout << "\tchon chuc nang: ";
 		cin >> cn;
@@ -69,35 +69,66 @@ void Encrypt()
 	} while (1);
 }
 
-void Devide_file()
+void Devide_Join_file()
 {
-	string filename;
-	int num_file;
+	int cn = 0;
 
-	cout << "nhap ten file: ";
-	cin >> filename;
-	cout << "nhap so luong file can chia: ";
-	cin >> num_file;
+	do
+	{
+		cout << " \n\n1: chia file" << endl;
+		cout << "2: gop file " << endl;
+		cout << "-1: ket thuc" << endl;
+		cout << "\tchon chuc nang: ";
+		cin >> cn;
 
-	Divided(filename, num_file);
+		if (cn == -1)
+		{
+			break;
+		}
+		switch (cn)
+		{
+		case 1:
+		{
+			string filename;
+			int num_file;
+
+			cout << "nhap ten file: ";
+			cin >> filename;
+			cout << "nhap so luong file can chia: ";
+			cin >> num_file;
+
+			Divided(filename, num_file);
+			break;
+		}
+		case 2:
+		{
+			string filename;
+			int num_file;
+
+			cout << "nhap ten file: ";
+			cin >> filename;
+			cout << "nhap so luong file can chia: ";
+			cin >> num_file;
+
+			Join(filename, num_file);
+			break;
+		}
+		default:
+		{
+			cout << "Ban khong chon chuc nang!" << endl;
+			cout << "Ket thuc chuong trinh" << endl;
+			break;
+		}
+		}
+	} while (1);
 }
-void Join_File()
-{
-	string filename;
-	int num_file;
 
-	cout << "nhap ten file: ";
-	cin >> filename;
-	cout << "nhap so luong file can chia: ";
-	cin >> num_file;
 
-	Join(filename, num_file);
-}
 int main()
 {
 
 	//Encrypt();
-	//Devide_file();
+	Devide_Join_file();
 	//Join("a",3);
 
 	return 0;

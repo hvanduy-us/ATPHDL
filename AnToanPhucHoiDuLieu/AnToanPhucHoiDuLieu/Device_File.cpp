@@ -21,7 +21,12 @@ string Read_From_File(string filename)
 		return content;
 	}
 
-	file >> content;
+	string temp;
+	while (!file.eof())
+	{
+		getline(file, temp);
+		content += temp;
+	}
 
 	file.close();
 
@@ -75,7 +80,7 @@ void Divided(string fileName,int count_f)
 	string filename_new = "";
 
 	content = Read_From_File(fileName);
-
+	cout << content;
 	// lay noi dung file
 	list_content = Divided_Content(content, count_f);
 

@@ -1,0 +1,1 @@
+Khong cung cap thong tin ca nhan cho nguoi khac neu khong can thiet va bat buoc.Khong truy cap vao cac duong link la, khong ra nguon.Dac biet khong duoc cung cap ma OTP cho nguoi khac bat ke la ai (nhan vien ngan hang, cong an).Su dung mot so tien ich hoac ung dung dam bao an toan khi su 

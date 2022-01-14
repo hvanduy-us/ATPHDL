@@ -1,5 +1,5 @@
-Không cung cấp thông tin cá nhân cho người khác nếu không cần thiết và bắt buộc.
-Không truy cập vào các đường link lạ, không rõ nguồn.
-Đặc biệt không được cung cấp mã OTP cho người khác bất kể là ai (nhân viên ngân hàng, công an…).
-Sử dụng một số tiện ích hoặc ứng dụng đảm bảo an toàn khi sử dụng Internet như: chongluadao( có 3 nên tảng là ứng dụng, trang web và tiện ích trên trình duyệt), tiện ích HTTPSEverywhere, tiện ích uBlock, tiện ích DuckDuckGo, tiện ích Ghostery.
-Trang bị một số kiến thức về an toàn thông tin và luật pháp để có thể nhận biết được một số hành vi lừa đảo.
+Khong cung cap thong tin ca nhan cho nguoi khac neu khong can thiet va bat buoc.
+Khong truy cap vao cac duong link la, khong ra nguon.
+Dac biet khong duoc cung cap ma OTP cho nguoi khac bat ke la ai (nhan vien ngan hang, cong an).
+Su dung mot so tien ich hoac ung dung dam bao an toan khi su dung Internet nhu: chongluadao( co 3 nen tang la ung dung, trang web va tien ich tren trinh duyet), tien ich HTTPSEverywhere, tien ich uBlock, tien ich DuckDuckGo, tien ich Ghostery.
+Trang bi mot so kien thuc ve an toan thong tin va luat phap de co the nhan biet duoc mot so hanh vi lua dao.

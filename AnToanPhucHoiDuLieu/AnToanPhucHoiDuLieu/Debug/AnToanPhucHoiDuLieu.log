@@ -1,7 +1,5 @@
 ﻿  Device_File.cpp
-F:\visual_C++\AnToanPhucHoiDuLieu\AnToanPhucHoiDuLieu\Device_File.cpp(48,8): warning C4018: '<': signed/unsigned mismatch
-F:\visual_C++\AnToanPhucHoiDuLieu\AnToanPhucHoiDuLieu\Device_File.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
-F:\visual_C++\AnToanPhucHoiDuLieu\AnToanPhucHoiDuLieu\Device_File.cpp(82,6): warning C4101: 'k': unreferenced local variable
-  Source.cpp
-  Generating Code...
+F:\visual_C++\AnToanPhucHoiDuLieu\AnToanPhucHoiDuLieu\Device_File.cpp(53,8): warning C4018: '<': signed/unsigned mismatch
+F:\visual_C++\AnToanPhucHoiDuLieu\AnToanPhucHoiDuLieu\Device_File.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+F:\visual_C++\AnToanPhucHoiDuLieu\AnToanPhucHoiDuLieu\Device_File.cpp(87,6): warning C4101: 'k': unreferenced local variable
   AnToanPhucHoiDuLieu.vcxproj -> F:\visual_C++\AnToanPhucHoiDuLieu\Debug\AnToanPhucHoiDuLieu.exe
